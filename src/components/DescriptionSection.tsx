@@ -14,37 +14,56 @@ const DescriptionSection = () => {
           <div className="space-y-6 text-body-lg text-foreground/85">
             <p>
               Drømmer du om livet på landet med plads, natur og gode muligheder? 
+            <br>
               Denne skønne landbrugsejendom byder på en attraktiv kombination af bolig, erhverv og naturoplevelser.
             </p>
             <p>
               Ejendommen rummer to boliger på samme matrikel, hvilket gør den ideel til flere generationer eller som en oplagt investering med udlejning:
-            <br></br>
-              •	Stuehus på 170 m² samt udnyttet loft med to gode værelser på ca. 15 m² hver 
-              •	Bolig nr. 2 på ca. 85 m², som i dag er udlejet på en tidsbegrænset lejeaftale. Lejer ønsker fortsat at blive boende, hvilket giver en stabil og attraktiv lejeindtægt 
+            <br>
+                •	Stuehus på 170 m² samt udnyttet loft med to gode værelser på ca. 15 m² hver 
+            <br>
+                •	Bolig nr. 2 på ca. 85 m², som i dag er udlejet på en tidsbegrænset lejeaftale. Lejer ønsker fortsat at blive boende, hvilket giver en stabil og attraktiv lejeindtægt 
+            <br>
               Udenfor mødes du af en stor, solrig gårdsplads samt en dejlig lukket have, hvor der er rig mulighed for at nyde udelivet i rolige omgivelser.
-
+            <p>
               Til ejendommen hører flere udbygninger, herunder faciliteter til dyrehold med 5 gode hestebokse.
+            <br>
               Det samlede jordtilliggende udgør 21,7 hektar, fordelt på:
-              •	ca. 17 hektar agerjord 
-              •	øvrige arealer med skov og græs 
-              •	samt fantastiske jagtmuligheder 
-
+            <br>
+                •	ca. 17 hektar agerjord 
+            <br>
+                •	øvrige arealer med skov og græs 
+            <br>
+                •	samt fantastiske jagtmuligheder 
+            </p>
+              
+            <p>
               Jorden er pt. udlejet, og lejeaftalen kan enten videreføres eller ophøre – alt efter købers ønsker.
               Ejendommen kan købes med eller uden jord, alt efter behov.
               Beliggenheden er helt særlig - jorden grænser direkte op til Trustrup Høje, som er et fredet og yderst naturskønt område med enestående landskab og rigt dyreliv. Her får du naturen helt tæt på døren.
+              <br>
               Samtidig er der kort afstand til hverdagens fornødenheder:
-              •	4,5 km til Sondrup Strand 
-              •	2 km til indkøb 
-              •	2 km til skole og institution 
-              •	14 km til Odder 
-              •	14 km til Horsens 
-              •	33 km til Aarhus 
-
+              <br>
+                •	4,5 km til Sondrup Strand 
+              <br>
+                •	2 km til indkøb 
+              <br>
+                •	2 km til skole og institution 
+              <br>
+                •	14 km til Odder 
+              <br>
+                •	14 km til Horsens 
+              <br>
+                •	33 km til Aarhus 
             </p>
+
             <p>
               Pris efter aftale - afhænger af om ejendommen ønskes med eller uden jord.
+            <br></br>
               •	To boliger + 1,8 ha jord: 3.250.000 kr.
+            <br></br>
               •	Hele ejendommen (inkl. 21,7 ha): 7.350.000 kr.
+            <br></br>
               •	Eventuel anden kombination af bolig og jordtilliggende 
 
             </p>
