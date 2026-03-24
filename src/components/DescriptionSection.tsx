@@ -13,60 +13,70 @@ const DescriptionSection = () => {
 
           <div className="space-y-6 text-body-lg text-foreground/85">
             <p>
-              Drømmer du om livet på landet med plads, natur og gode muligheder? 
-            <br>
-              Denne skønne landbrugsejendom byder på en attraktiv kombination af bolig, erhverv og naturoplevelser.
+              Drømmer du om livet på landet med plads, natur og gode muligheder? Denne skønne landbrugsejendom byder på en attraktiv kombination af bolig, erhverv og naturoplevelser.
             </p>
+
             <p>
               Ejendommen rummer to boliger på samme matrikel, hvilket gør den ideel til flere generationer eller som en oplagt investering med udlejning:
-            <br>
-                •	Stuehus på 170 m² samt udnyttet loft med to gode værelser på ca. 15 m² hver 
-            <br>
-                •	Bolig nr. 2 på ca. 85 m², som i dag er udlejet på en tidsbegrænset lejeaftale. Lejer ønsker fortsat at blive boende, hvilket giver en stabil og attraktiv lejeindtægt 
-            <br>
+            </p>
+
+            <ul className="list-disc list-inside space-y-2 pl-2">
+              <li>Stuehus på 170 m² samt udnyttet loft med to gode værelser på ca. 15 m² hver</li>
+              <li>Bolig nr. 2 på ca. 85 m², som i dag er udlejet på en tidsbegrænset lejeaftale. Lejer ønsker fortsat at blive boende, hvilket giver en stabil og attraktiv lejeindtægt</li>
+            </ul>
+
+            <p>
               Udenfor mødes du af en stor, solrig gårdsplads samt en dejlig lukket have, hvor der er rig mulighed for at nyde udelivet i rolige omgivelser.
+            </p>
+
             <p>
               Til ejendommen hører flere udbygninger, herunder faciliteter til dyrehold med 5 gode hestebokse.
-            <br>
-              Det samlede jordtilliggende udgør 21,7 hektar, fordelt på:
-            <br>
-                •	ca. 17 hektar agerjord 
-            <br>
-                •	øvrige arealer med skov og græs 
-            <br>
-                •	samt fantastiske jagtmuligheder 
             </p>
-              
+
+            <p>
+              Det samlede jordtilliggende udgør 21,7 hektar, fordelt på:
+            </p>
+
+            <ul className="list-disc list-inside space-y-2 pl-2">
+              <li>ca. 17 hektar agerjord</li>
+              <li>øvrige arealer med skov og græs</li>
+              <li>samt fantastiske jagtmuligheder</li>
+            </ul>
+
             <p>
               Jorden er pt. udlejet, og lejeaftalen kan enten videreføres eller ophøre – alt efter købers ønsker.
-              Ejendommen kan købes med eller uden jord, alt efter behov.
-              Beliggenheden er helt særlig - jorden grænser direkte op til Trustrup Høje, som er et fredet og yderst naturskønt område med enestående landskab og rigt dyreliv. Her får du naturen helt tæt på døren.
-              <br>
-              Samtidig er der kort afstand til hverdagens fornødenheder:
-              <br>
-                •	4,5 km til Sondrup Strand 
-              <br>
-                •	2 km til indkøb 
-              <br>
-                •	2 km til skole og institution 
-              <br>
-                •	14 km til Odder 
-              <br>
-                •	14 km til Horsens 
-              <br>
-                •	33 km til Aarhus 
             </p>
 
             <p>
-              Pris efter aftale - afhænger af om ejendommen ønskes med eller uden jord.
-            <br></br>
-              •	To boliger + 1,8 ha jord: 3.250.000 kr.
-            <br></br>
-              •	Hele ejendommen (inkl. 21,7 ha): 7.350.000 kr.
-            <br></br>
-              •	Eventuel anden kombination af bolig og jordtilliggende 
-
+              Ejendommen kan købes med eller uden jord, alt efter behov.
             </p>
+
+            <p>
+              Beliggenheden er helt særlig – jorden grænser direkte op til Trustrup Høje, som er et fredet og yderst naturskønt område med enestående landskab og rigt dyreliv. Her får du naturen helt tæt på døren.
+            </p>
+
+            <p>
+              Samtidig er der kort afstand til hverdagens fornødenheder:
+            </p>
+
+            <ul className="list-disc list-inside space-y-2 pl-2">
+              <li>4,5 km til Sondrup Strand</li>
+              <li>2 km til indkøb</li>
+              <li>2 km til skole og institution</li>
+              <li>14 km til Odder</li>
+              <li>14 km til Horsens</li>
+              <li>33 km til Aarhus</li>
+            </ul>
+
+            <p>
+              Pris efter aftale – afhænger af om ejendommen ønskes med eller uden jord.
+            </p>
+
+            <ul className="list-disc list-inside space-y-2 pl-2">
+              <li>To boliger + 1,8 ha jord: 3.250.000 kr.</li>
+              <li>Hele ejendommen (inkl. 21,7 ha): 7.350.000 kr.</li>
+              <li>Eventuel anden kombination af bolig og jordtilliggende</li>
+            </ul>
           </div>
 
           <div className="mt-12 md:mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
