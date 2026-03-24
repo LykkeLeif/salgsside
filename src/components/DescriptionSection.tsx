@@ -18,6 +18,7 @@ const DescriptionSection = () => {
             </p>
             <p>
               Ejendommen rummer to boliger på samme matrikel, hvilket gør den ideel til flere generationer eller som en oplagt investering med udlejning:
+            <br></br>
               •	Stuehus på 170 m² samt udnyttet loft med to gode værelser på ca. 15 m² hver 
               •	Bolig nr. 2 på ca. 85 m², som i dag er udlejet på en tidsbegrænset lejeaftale. Lejer ønsker fortsat at blive boende, hvilket giver en stabil og attraktiv lejeindtægt 
               Udenfor mødes du af en stor, solrig gårdsplads samt en dejlig lukket have, hvor der er rig mulighed for at nyde udelivet i rolige omgivelser.
@@ -51,7 +52,8 @@ const DescriptionSection = () => {
 
           <div className="mt-12 md:mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
             {[
-              { label: "Boligareal", value: "170 m² + 85 m²" },
+              { label: "Boligareal (stuehus)", value: "170 m²" },
+              { label: "Boligareal (bolig nr. 2)", value: "85 m²" },
               { label: "Grundareal", value: "21,7 ha" },
               { label: "Værelser", value: "6" },
               { label: "Byggeår", value: "1860" },
