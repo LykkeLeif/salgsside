@@ -5,9 +5,6 @@ const MapSection = () => {
         <p className="font-body text-sm tracking-[0.3em] uppercase text-muted-foreground mb-3 text-center">
           Beliggenhed
         </p>
-        <h2 className="text-display text-foreground mb-4 text-center">
-          Trustrupvej 21, 8350 Hundslund
-        </h2>
         <div className="w-16 h-px mx-auto bg-terracotta mb-10" />
 
         <div className="rounded-lg overflow-hidden shadow-lg aspect-video">
