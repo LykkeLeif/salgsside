@@ -19,7 +19,7 @@ const ContactSection = () => {
           <div className="space-y-8">
             <div>
               <p className="font-display text-xl md:text-2xl font-medium mb-1">
-                Hans Jensen
+                Claus Nørgaard
               </p>
               <p className="font-body text-primary-foreground/60 text-sm tracking-wide uppercase">
                 Ejer
@@ -28,23 +28,23 @@ const ContactSection = () => {
 
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-12">
               <a
-                href="tel:+4512345678"
+                href="tel:+4521470310"
                 className="font-body text-lg text-primary-foreground/80 hover:text-primary-foreground transition-colors"
               >
-                +45 12 34 56 78
+                +45 21 47 03 10
               </a>
               <span className="hidden md:inline text-primary-foreground/30">|</span>
               <a
-                href="mailto:hans@skovgaarden.dk"
+                href="mailto:trustrupvej21@outlook.dk"
                 className="font-body text-lg text-primary-foreground/80 hover:text-primary-foreground transition-colors"
               >
-                hans@skovgaarden.dk
+                trustrupvej21@outlook.dk
               </a>
             </div>
 
             <div className="pt-4">
               <p className="font-body text-sm text-primary-foreground/50">
-                Skovgårdsvej 42, 6340 Kruså
+                Trustrupvej 21, 8350 Hundslund
               </p>
             </div>
           </div>

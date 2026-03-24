@@ -31,7 +31,7 @@ const Navbar = () => {
             scrolled ? "text-foreground" : "text-primary-foreground"
           }`}
         >
-          Skovgården
+          Trustrupvej 21
         </a>
         <div className="hidden md:flex items-center gap-8">
           {links.map((link) => (

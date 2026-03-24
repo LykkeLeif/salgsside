@@ -15,7 +15,7 @@ const Index = () => {
       <DescriptionSection />
       <ContactSection />
       <footer className="py-6 text-center font-body text-xs text-muted-foreground tracking-wider">
-        © 2025 Skovgården
+        Trustrupvej 21
       </footer>
     </div>
   );
