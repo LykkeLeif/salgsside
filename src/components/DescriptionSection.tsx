@@ -73,7 +73,7 @@ const DescriptionSection = () => {
             </p>
 
             <ul className="list-disc list-inside space-y-2 pl-2">
-              <li>To boliger + 1,8 ha jord: 3.250.000 kr.</li>
+              <li>To boliger + 1,6 ha jord: 3.250.000 kr.</li>
               <li>Hele ejendommen (inkl. 21,7 ha): 7.350.000 kr.</li>
               <li>Eventuel anden kombination af bolig og jordtilliggende</li>
             </ul>
