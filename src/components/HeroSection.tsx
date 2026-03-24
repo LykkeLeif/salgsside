@@ -19,7 +19,7 @@ const HeroSection = () => {
           Trustrupvej 21, 8350 Hundslund
         </h1>
         <p className="text-subtitle text-primary-foreground/90 mb-8">
-          Charmerende landbrugsejendom i naturskønne omgivelser - mulighed for flere generationer eller udlejning
+          Charmerende landbrugsejendom i naturskønne omgivelser
         </p>
         <div className="divider-ornament mb-8" />
         <a
