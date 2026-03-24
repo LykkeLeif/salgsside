@@ -5,7 +5,7 @@ const HeroSection = () => {
     <section className="relative h-screen w-full overflow-hidden">
       <img
         src={heroImage}
-        alt="Smuk landejendom i det danske landskab"
+        alt="Charmerende landbrugsejendom i naturskønne omgivelser - mulighed for flere generationer eller udlejning"
         className="absolute inset-0 w-full h-full object-cover"
         width={1920}
         height={1080}
@@ -16,10 +16,10 @@ const HeroSection = () => {
           Til salg — Landejendom
         </p>
         <h1 className="text-display text-primary-foreground mb-4">
-          Skovgården
+          Trustrupvej 21, 8350 Hundslund
         </h1>
         <p className="text-subtitle text-primary-foreground/90 mb-8">
-          En sjælden perle i det sønderjyske landskab
+          Charmerende landbrugsejendom i naturskønne omgivelser - mulighed for flere generationer eller udlejning
         </p>
         <div className="divider-ornament mb-8" />
         <a

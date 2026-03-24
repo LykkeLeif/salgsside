@@ -13,34 +13,49 @@ const DescriptionSection = () => {
 
           <div className="space-y-6 text-body-lg text-foreground/85">
             <p>
-              Skovgården er en enestående landejendom beliggende midt i det
-              sønderjyske landskab, omgivet af skov, marker og åbne horisonter.
-              Ejendommen er opført i traditionelle røde mursten med stråtag og
-              rummer al den charm og karakter, man kun finder i ældre danske
-              landejendomme.
+              Drømmer du om livet på landet med plads, natur og gode muligheder? 
+              Denne skønne landbrugsejendom byder på en attraktiv kombination af bolig, erhverv og naturoplevelser.
             </p>
             <p>
-              Hovedhuset byder på lyse, rummelige stuer med synlige
-              egetræsbjælker, en moderne indrettet pejs og et køkken der
-              forener rustik hygge med nutidens komfort. Store vinduer sørger
-              for et naturligt lysindfald, der giver hvert rum en varm og
-              indbydende atmosfære.
+              Ejendommen rummer to boliger på samme matrikel, hvilket gør den ideel til flere generationer eller som en oplagt investering med udlejning:
+              •	Stuehus på 170 m² samt udnyttet loft med to gode værelser på ca. 15 m² hver 
+              •	Bolig nr. 2 på ca. 85 m², som i dag er udlejet på en tidsbegrænset lejeaftale. Lejer ønsker fortsat at blive boende, hvilket giver en stabil og attraktiv lejeindtægt 
+              Udenfor mødes du af en stor, solrig gårdsplads samt en dejlig lukket have, hvor der er rig mulighed for at nyde udelivet i rolige omgivelser.
+
+              Til ejendommen hører flere udbygninger, herunder faciliteter til dyrehold med 5 gode hestebokse.
+              Det samlede jordtilliggende udgør 21,7 hektar, fordelt på:
+              •	ca. 17 hektar agerjord 
+              •	øvrige arealer med skov og græs 
+              •	samt fantastiske jagtmuligheder 
+
+              Jorden er pt. udlejet, og lejeaftalen kan enten videreføres eller ophøre – alt efter købers ønsker.
+              Ejendommen kan købes med eller uden jord, alt efter behov.
+              Beliggenheden er helt særlig - jorden grænser direkte op til Trustrup Høje, som er et fredet og yderst naturskønt område med enestående landskab og rigt dyreliv. Her får du naturen helt tæt på døren.
+              Samtidig er der kort afstand til hverdagens fornødenheder:
+              •	4,5 km til Sondrup Strand 
+              •	2 km til indkøb 
+              •	2 km til skole og institution 
+              •	14 km til Odder 
+              •	14 km til Horsens 
+              •	33 km til Aarhus 
+
             </p>
             <p>
-              Med et samlet grundareal på ca. 12.000 m² og flere tilhørende
-              udbygninger rummer ejendommen utallige muligheder — fra
-              hestehold og hobby-landbrug til atelier og gæstehus. Haven er
-              anlagt med gamle egetræer, frugttræer og staudebede, der
-              blomstrer fra det tidlige forår til sent efterår.
+              Pris efter aftale - afhænger af om ejendommen ønskes med eller uden jord.
+              •	To boliger + 1,8 ha jord: 3.250.000 kr.
+              •	Hele ejendommen (inkl. 21,7 ha): 7.350.000 kr.
+              •	Eventuel anden kombination af bolig og jordtilliggende 
+
             </p>
           </div>
 
           <div className="mt-12 md:mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
             {[
-              { label: "Boligareal", value: "285 m²" },
-              { label: "Grundareal", value: "12.000 m²" },
-              { label: "Værelser", value: "7" },
-              { label: "Byggeår", value: "1892" },
+              { label: "Boligareal", value: "170 m² + 85 m²" },
+              { label: "Grundareal", value: "21,7 ha" },
+              { label: "Værelser", value: "6" },
+              { label: "Byggeår", value: "1860" },
+              { label: "Renoveret", value: "1990" },
             ].map((item) => (
               <div key={item.label} className="text-center">
                 <p className="font-display text-2xl md:text-3xl font-medium text-foreground">
