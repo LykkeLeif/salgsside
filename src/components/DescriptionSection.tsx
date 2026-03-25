@@ -38,7 +38,7 @@ const DescriptionSection = () => {
             </p>
 
             <ul className="list-disc list-inside space-y-2 pl-2">
-              <li>ca. 17 hektar agerjord</li>
+              <li>ca. 17 hektar god agerjord</li>
               <li>øvrige arealer med skov og græs</li>
               <li>samt fantastiske jagtmuligheder</li>
             </ul>
@@ -85,8 +85,9 @@ const DescriptionSection = () => {
               { label: "Boligareal (bolig nr. 2)", value: "85 m²" },
               { label: "Grundareal", value: "21,7 ha" },
               { label: "Værelser", value: "6" },
-              { label: "Byggeår", value: "1860" },
-              { label: "Renoveret", value: "1990" },
+              { label: "Byggeår (stuehus)", value: "1860" },
+              { label: "Renoveret (stuehus)", value: "1990" },
+              { label: "Byggeår (bolig nr. 2)", value: "1955" },
             ].map((item) => (
               <div key={item.label} className="text-center">
                 <p className="font-display text-2xl md:text-3xl font-medium text-foreground">
