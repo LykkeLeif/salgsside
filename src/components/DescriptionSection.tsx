@@ -30,7 +30,7 @@ const DescriptionSection = () => {
             </p>
 
             <p>
-              Til ejendommen hører flere udbygninger, herunder faciliteter til dyrehold med 5 gode hestebokse.
+              Til ejendommen hører flere udbygninger, herunder faciliteter til dyrehold med 5 gode hestebokse fra Röwer&Rüb.
             </p>
 
             <p>
@@ -82,11 +82,11 @@ const DescriptionSection = () => {
           <div className="mt-12 md:mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
             {[
               { label: "Boligareal (stuehus)", value: "170 m²" },
-              { label: "Boligareal (bolig nr. 2)", value: "85 m²" },
-              { label: "Værelser", value: "6" },
+              { label: "Værelser (stuehus)", value: "6" },
               { label: "Byggeår (stuehus)", value: "1860" },
-              { label: "Byggeår (bolig nr. 2)", value: "1955" },
               { label: "Renoveret (stuehus)", value: "1990" },
+              { label: "Boligareal (bolig nr. 2)", value: "85 m²" },
+              { label: "Byggeår (bolig nr. 2)", value: "1955" },
               { label: "Grundareal", value: "21,7 ha" },
             ].map((item) => (
               <div key={item.label} className="text-center">
