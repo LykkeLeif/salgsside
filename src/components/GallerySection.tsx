@@ -13,6 +13,7 @@ const galleryImages = [
   { src: outdoorFlowersClose, alt: "Farverige rhododendron i fuldt flor" },
   { src: outdoorFlowersWide, alt: "Gårdsplads med blomstrende rhododendron og terrasse" },
   { src: outdoorMatrikelkort, alt: "Matrikelkort over ejendommens jordtilliggende" },
+  { src: indoorHorseStalls, alt: "Hestebokse i stalden" },
 ];
 
 const GallerySection = () => {
