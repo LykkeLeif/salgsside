@@ -4,6 +4,7 @@ import outdoorGardenSun from "@/assets/outdoor-garden-sun.jpg";
 import outdoorFlowersClose from "@/assets/outdoor-flowers-close.jpg";
 import outdoorFlowersWide from "@/assets/outdoor-flowers-wide.jpg";
 import outdoorMatrikelkort from "@/assets/outdoor-matrikelkort.jpg";
+import indoorHorseStalls from "@/assets/indoor-horse-stalls.jpg";
 
 const galleryImages = [
   { src: aerialImage, alt: "Luftfoto af ejendommen og de omkringliggende marker" },
@@ -12,6 +13,7 @@ const galleryImages = [
   { src: outdoorFlowersClose, alt: "Farverige rhododendron i fuldt flor" },
   { src: outdoorFlowersWide, alt: "Gårdsplads med blomstrende rhododendron og terrasse" },
   { src: outdoorMatrikelkort, alt: "Matrikelkort over ejendommens jordtilliggende" },
+  { src: indoorHorseStalls, alt: "Hestebokse i stalden" },
 ];
 
 const GallerySection = () => {
