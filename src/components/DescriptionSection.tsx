@@ -22,7 +22,7 @@ const DescriptionSection = () => {
 
             <ul className="list-disc list-inside space-y-2 pl-2">
               <li>Stuehus på 170 m² samt udnyttet loft med to gode værelser på ca. 15 m² hver</li>
-              <li>Bolig nr. 2 på ca. 85 m², som i dag er udlejet på en tidsbegrænset lejeaftale. Lejer ønsker fortsat at blive boende, hvilket giver en stabil og attraktiv lejeindtægt</li>
+              <li>Bolig nr. 2 på ca. 85 m², er i dag udlejet på en tidsbegrænset lejekontrakt, der udløber i 2027. Såfremt man ikke selv ønsker at benytte bolig 2, vil nuværende rolige og stabile lejer gerne fortsætte lejemålet, hvilket giver en god lejeindtægt.</li>
             </ul>
 
             <p>
@@ -83,11 +83,11 @@ const DescriptionSection = () => {
             {[
               { label: "Boligareal (stuehus)", value: "170 m²" },
               { label: "Boligareal (bolig nr. 2)", value: "85 m²" },
-              { label: "Grundareal", value: "21,7 ha" },
               { label: "Værelser", value: "6" },
               { label: "Byggeår (stuehus)", value: "1860" },
-              { label: "Renoveret (stuehus)", value: "1990" },
               { label: "Byggeår (bolig nr. 2)", value: "1955" },
+              { label: "Renoveret (stuehus)", value: "1990" },
+              { label: "Grundareal", value: "21,7 ha" },
             ].map((item) => (
               <div key={item.label} className="text-center">
                 <p className="font-display text-2xl md:text-3xl font-medium text-foreground">
