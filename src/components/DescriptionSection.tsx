@@ -86,6 +86,7 @@ const DescriptionSection = () => {
               { label: "Byggeår (stuehus)", value: "1860" },
               { label: "Renoveret (stuehus)", value: "1990" },
               { label: "Boligareal (bolig nr. 2)", value: "85 m²" },
+              { label: "Værelser (bolig nr. 2)", value: "2" },
               { label: "Byggeår (bolig nr. 2)", value: "1955" },
               { label: "Grundareal", value: "21,7 ha" },
             ].map((item) => (
