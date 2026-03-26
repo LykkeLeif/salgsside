@@ -4,6 +4,7 @@ import outdoorGardenSun from "@/assets/outdoor-garden-sun.jpg";
 import outdoorFlowersClose from "@/assets/outdoor-flowers-close.jpg";
 import outdoorFlowersWide from "@/assets/outdoor-flowers-wide.jpg";
 import outdoorMatrikelkort from "@/assets/outdoor-matrikelkort.jpg";
+import indoorHorseStalls from "@/assets/indoor-horse-stalls.jpg";
 
 const galleryImages = [
   { src: aerialImage, alt: "Luftfoto af ejendommen og de omkringliggende marker" },
